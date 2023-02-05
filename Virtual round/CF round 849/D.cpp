@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define int long long int
+// #define int long long int
 #define rep(i,a,b) for(int i = a ; i < b ; i++)
 #define endl "\n"
 
@@ -14,29 +14,26 @@ void IO(){
 }
 
 
-const int N = 1e6 + 7;
-int  mod = 1e9 + 7;
-
 void solve(int t){ 
      int n; cin >> n;
-     string s;
-     cin >> s;
+     string s; cin >> s;
 
-     int last_pos[26];
-     rep(i,0,26) last_pos[i] = -1;
-
-     rep(i,0,n) last_pos[s[i] - 'a'] = i;
-     set<char> check;
-
-     int dist = 0 , ans = 0;
+     int chars[26] = {} , ans = 0;
      rep(i,0,n){
-          if(!check.count(s[i])) ++dist,check.insert(s[i]);
+          ++chars[s[i] - 'a'];
+     }
 
-          set<char> dist2;
-          rep(j,0,26) if(last_pos[j] > i) dist2.insert(j);
-          int res = dist + dist2.size();
+     set<int> cnt1;
+     rep(i,0,n){
+          cnt1.insert(s[i] - 'a');
+          --chars[s[i] - 'a'];
 
-          ans = max(res,ans);
+          set<int> cnt2;
+          rep(i,0,26) if(chars[i]) cnt2.insert(i);
+          
+          int res = cnt2.size() + cnt1.size();
+          ans = max(ans,res);
+
      }
      cout << ans << '\n';
 }
@@ -54,7 +51,3 @@ int32_t main()
      }
      return 0;
 }
-
-
-
-
