@@ -74,9 +74,10 @@ void solve(int t){
 
      int n; cin >> n;
      int a[n];
-     rep(i,0,n) cin >> a[i];
-     int par = a[0] % 2 , mn = a[0];
 
+     rep(i,0,n) cin >> a[i];
+
+     int par = a[0] % 2 , mn = a[0];
      rep(i,1,n){ if(par != a[i] % 2) ok = 0; mn = min(mn,a[i]);}
 
      if(ok or (mn % 2)){ cout << "YES\n"; return;}
