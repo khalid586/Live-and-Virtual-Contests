@@ -4,5 +4,8 @@
 - [Solution]()
 
 # Problem B
+- [Problem Link]()
+- <details> <summary> Hint</summary> If you find any element less than previous element then you have to perform any operation otherwise just print the array elements.</details>
+- [Solution]()
 
 # Problem C
