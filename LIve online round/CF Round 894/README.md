@@ -9,3 +9,6 @@
 - [Solution]()
 
 # Problem C
+- [Problem Link]()
+- <details> <summary> Hint</summary> 1. Think from backwards. <br>2. Think array index wise.</details>
+- [Solution]()
