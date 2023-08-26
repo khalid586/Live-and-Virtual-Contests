@@ -78,8 +78,7 @@ void solve(int t){
           
           b[i] = pos;
      }
-
-     _print(b);
+     
      cout << (a == b? "YES\n":"NO\n");
 }
 
