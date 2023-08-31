@@ -66,17 +66,12 @@ void solve(int t){
      string a,b; cin >> a >> b;
 
      int n = a.size();
-     vector<int> zeros, ones;
+     vector<int> ones;
 
      rev(i,n-1,0)   if(a[i] == '1' and b[i] == '1')    ones.push_back(i);
-     rep(i,0,n)     if(a[i] == '0' and b[i] == '0')    zeros.push_back(i);
-
+     
      for(auto idx:ones){
           if(a[idx-1] == b[idx-1] and a[idx-1] == '0'){ cout << "YES\n"; return;}
-     }
-
-     for(auto idx:zeros){
-          if(a[idx+1] == b[idx+1] and a[idx+1] == '1'){ cout << "YES\n"; return;}
      }
 
      cout << "NO\n";
