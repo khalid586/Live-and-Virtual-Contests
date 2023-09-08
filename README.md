@@ -3,7 +3,7 @@
 
 ### Live Codeforces Rounds
 - [CF Round 895](https://github.com/khalid586/LIve-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20895)
-- [CF Educational Round 154](https://github.com/khalid586/Codeforces-LIve-and-Virtual-rounds/tree/main/LIve%20online%20round/CF%20Edu%20Round%20154)
+- [CF Educational Round 154](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Edu%20Round%20154)
 - [CF Round 894](https://github.com/khalid586/Codeforces-LIve-and-Virtual-rounds/tree/main/LIve%20online%20round/CF%20Round%20894)
 - [CF Round 886](https://github.com/khalid586/Codeforces-LIve-and-Virtual-rounds/tree/main/LIve%20online%20round/CF%20Round%20886)
 - [CF Round 881](https://github.com/khalid586/Codeforces-LIve-and-Virtual-rounds/tree/main/LIve%20online%20round/CF%20Round%20881)
