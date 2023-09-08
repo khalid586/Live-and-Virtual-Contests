@@ -1,3 +1,5 @@
+## Problems
+
 #### Problem A
 - [Problem Link](https://codeforces.com/contest/1872/problem/A)
 - <details> <summary> Hint</summary>  Think about the difference of A and B</details>
