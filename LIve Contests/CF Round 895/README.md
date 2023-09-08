@@ -16,8 +16,10 @@
 - [Problem Link](https://codeforces.com/contest/1872/problem/C)
 - <details> <summary> Hint</summary>If a number is non-prime then it will be definitely the sum of two numbers </details>
 - [Solution](https://github.com/khalid586/LIve-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20895/CF%201872C.cpp)
+- <details> <summary> Explanation</summary>If a number is non-prime then it is the sum of quotent and (dividend-1) * quotent. So you just have to find a number that is non-prime within the given range. If you don't find then answer is -1. </details>
 
 #### Problem D
 - [Problem Link](https://codeforces.com/contest/1872/problem/D)
 - <details> <summary> Hint</summary> Think about positions which will add to the sum and positions that will be subtracted from the sum and positions that are common. Then maximize the positive positions and minimize the negative positions. </details>
 - [Solution](https://github.com/khalid586/LIve-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20895/CF%201872D.cpp)
+- <details> <summary> Explanation</summary> You have to maximize n/x positions and minimize the n/y positions , so we will give n/x positions largest values and n/y positions smallest values and we will count the sum of the elements by using (n*(n+1))/2 formula. Then we will count the difference of maximized and minimized elements.</details>
