@@ -1,6 +1,6 @@
 <img alt="Coding" width="800px" height="400px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
 <br>
-<br>
+
 
 # <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Introduction
 [**Codeforces**](https://codeforces.com) hosts online coding competitions regularly. They organize competitions almost once every week.
