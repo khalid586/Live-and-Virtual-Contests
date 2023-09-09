@@ -2,14 +2,14 @@
 <br>
 <br>
 
-# <img src = "https://cdn.dribbble.com/users/2206859/screenshots/4955676/hotel_dribble1.gif" align = "center" width = "60px" height = "40px"> Introduction
+# <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Introduction
 [**Codeforces**](https://codeforces.com) hosts online coding competitions regularly. They organize competitions almost once every week.
 
 Below you will find some of the contests that I have participated (Live or Virtual).
 
 Besides codeforces contests you might also find some other contests that I have participated.
 
-### <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Live Codeforces Rounds
+### <img src = "https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif" align = "center" width = "60px" height = "40px"> Live Codeforces Rounds
 - [Codeforces Round 895](https://github.com/khalid586/LIve-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20895)
 - [Codeforces Educational Round 154](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Edu%20Round%20154)
 - [Codeforces Round 894](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20894)
