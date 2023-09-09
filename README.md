@@ -1,5 +1,7 @@
 # <img src = "https://cdn.dribbble.com/users/2206859/screenshots/4955676/hotel_dribble1.gif" align = "center" width = "60px" height = "40px"> Introduction
-- Below you will find some of the contests that I have participated(Live or Virtual) during my undergrad.
+[**Codeforces**](https://codeforces.com) hosts online coding competitions regularly. They organize competitions almost once every week.
+
+Below you will find some of the contests that I have participated (Live or Virtual).
 
 ### <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Live Codeforces Rounds
 - [CF Round 895](https://github.com/khalid586/LIve-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20895)
