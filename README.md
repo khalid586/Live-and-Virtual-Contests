@@ -21,7 +21,8 @@ Besides codeforces contests you might also find some other contests that I have 
 - [Codeforces Round 874](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/CF%20round%20874)
 - [Codeforces Round 871](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/CF%20round%20871)
 - [Codeforces Round 852](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/CF%20round%20852)
-- [Codeforces Round 849](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20round/CF%20round%20849)
-- [Codeforces Round 835](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20round/CF%20round%20835)
-- [Codeforces Round 780](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20round/CF%20round%20780)
-- [Intra SUST Contest](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20round/Intra%20SUST%20programming%20contest)
+- [Codeforces Round 849](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/CF%20round%20849)
+- [Codeforces Round 835](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/CF%20round%20835)
+- [Codeforces Round 780](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/CF%20round%20780)
+- [Intra SUST Contest](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/Intra%20SUST%20programming%20contest)
+
