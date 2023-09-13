@@ -1,6 +1,10 @@
-## Contest
+<img alt="Coding" width="800px" height="400px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
+
+## <img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" align = "center" width = "60px" height = "40px"> Contest
 - You will find the contest [here](https://codeforces.com/contest/1872)
-## Problems
+
+
+## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Problems
 
 #### Problem A
 - [Problem Link](https://codeforces.com/contest/1872/problem/A)
