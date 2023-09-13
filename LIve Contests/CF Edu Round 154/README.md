@@ -15,3 +15,8 @@
 <br>
 
 # Upsolves
+
+#### Problem D
+- [Problem](https://codeforces.com/contest/1861/problem/D)
+- <details> <summary><b>Hint</b></summary> You can multiply the first half with negative numbers as well. Check which portion should be multiplied with positive numbers and which portions should be multiplied with negative numbers.</details>
+- [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Edu%20Round%20154/CF%201861D.cpp)
