@@ -7,13 +7,13 @@
 ## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Solutions
 
 #### Problem A
-- [Problem Link](https://codeforces.com/contest/1850/problem/A)
+- [Problem](https://codeforces.com/contest/1850/problem/A)
 - [Solution](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20886/A_.cpp)
 
 #### Problem B
-- [Problem Link](https://codeforces.com/contest/1850/problem/B)
+- [Problem](https://codeforces.com/contest/1850/problem/B)
 - [Solution](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20886/B_.cpp)
 
 #### Problem C
-- [Problem Link](https://codeforces.com/contest/1850/problem/C)
+- [Problem](https://codeforces.com/contest/1850/problem/C)
 - [Solution](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20886/C_.cpp)
