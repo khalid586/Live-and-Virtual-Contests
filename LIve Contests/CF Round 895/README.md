@@ -4,7 +4,7 @@
 - You will find the contest [here](https://codeforces.com/contest/1872)
 
 
-## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Problems
+## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Solutions
 
 #### Problem A
 - [Problem](https://codeforces.com/contest/1872/problem/A)
