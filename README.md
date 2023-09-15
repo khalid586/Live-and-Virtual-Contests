@@ -13,7 +13,7 @@ Besides codeforces contests you might also find some other contests that I have 
 |Contest Title| Problems Solved |Upsolve|Upsolve status|
 |-|-|-|-|
 |[**Codeforces Round 895**](https://github.com/khalid586/LIve-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20895)|04|-|-|
-|[**Codeforces Educational Round 154**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Edu%20Round%20154)|03|C <br>D|-<br>Done |
+|[**Codeforces Educational Round 154**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Edu%20Round%20154)|03|C <br>D|-<br>✅ |
 |[**Codeforces Round 894**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20894)|03|-|-|
 |[**Codeforces Round 886**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20886)|04|-|-|
 |[**Codeforces Round 881**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20881)|03|-|-|
