@@ -1,13 +1,12 @@
 ![](assets/my%20logo.jpeg)
 
-# <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> Introduction
-[**Codeforces**](https://codeforces.com) hosts online coding competitions regularly. They organize competitions almost once every week.
+### <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "45px" height = "30px"> Backstory
+>[**Codeforces**](https://codeforces.com) hosts online coding competitions more than once every week(almost).
 
-Below you will find some of the contests that I have participated (Live or Virtual).
+>Below you will find some of the contests that I have participated (Live or Virtual) on codeforces.
+Besides that, you might also find some other contests that I have participated on other platforms or organizations.
 
-Besides codeforces contests you might also find some other contests that I have participated.
-
-### <img src = "https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif" align = "center" width = "60px" height = "40px"> Live Contests
+### <img src = "assets/my%20logo.jpeg" align = "center" width = "45px" height = "30px"> Live Contests
 
 |Platform|Contest Title| Problems Solved |Upsolve|Upsolve status|
 |-|-|-|-|-|
@@ -20,7 +19,7 @@ Besides codeforces contests you might also find some other contests that I have 
 |<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" />| [**Codeforces Round 845**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20845)|![](https://img.shields.io/badge/2-%23E60023.svg?style=flat)|-|-|
 |<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" />|[**SWERC 2022-2023 Online Mirror**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/SWERC%202022-2023%20-%20Online%20Mirror%20(Unrated%2C%20ICPC%20Rules%2C%20Teams%20Preferred))|![](https://img.shields.io/badge/1-%23E60023.svg?style=flat)|-|-|
 
-### <img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" align = "center" width = "60px" height = "40px"> Virtual Contests
+### <img src = "assets/my%20logo.jpeg" align = "center" width = "45px" height = "30px"> Virtual Contests
 
 |Platform|Contest Title| Problems Solved |Upsolve|Upsolve status|
 |-|-|-|-|-|
