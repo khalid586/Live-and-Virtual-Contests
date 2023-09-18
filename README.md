@@ -8,7 +8,7 @@ Besides that, you might also find some other contests that I have participated o
 
 ### <img src = "assets/my%20logo.jpeg" align = "center" width = "45px" height = "30px"> Live Contests
 
-|Platform|Contest Title| Problems Solved |Upsolve|Upsolve status|
+|Platform|Contest Source [Github]| Problems Solved |Upsolve|Upsolve status|
 |-|-|-|-|-|
 |<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="22px" width="33px" />|[**Codeforces Round 895**](https://github.com/khalid586/LIve-Virtual-Contests/tree/main/LIve%20Contests/CF%20Round%20895)|![](https://img.shields.io/badge/4-%23E60023.svg?style=flat)|![](https://img.shields.io/badge/E-%232277F2.svg?)<br>![](https://img.shields.io/badge/F-%232277F2.svg?)|-<br>-|
 |<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height = "22px" width = "33px" />|[**Codeforces Educational Round 154**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/LIve%20Contests/CF%20Edu%20Round%20154)|![](https://img.shields.io/badge/3-%23E60023.svg?style=flat)|![](https://img.shields.io/badge/C-%232277F2.svg?)<br>![](https://img.shields.io/badge/D-%232277F2.svg?)|-<br>✅ |
