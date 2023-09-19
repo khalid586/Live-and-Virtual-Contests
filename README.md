@@ -39,7 +39,7 @@ Besides that, you might also find some other contests that I have participated o
 |<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height = "22px" width = "33px" />|[**Intra SUST Contest**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/Intra%20SUST%20programming%20contest)|![](https://img.shields.io/badge/1-%23E60023.svg?style=flat)|-|-|
 
 ### Want to improve problem solving speed?
-> <img src = "assets/online%20judge.PNG" align = "center" width = "30px" height = "20px"> **Solo speed contest <br><br>Solo speed contests are arranged by Bangladesh CP Server , a discord server of competitive programmers of Bangladesh.They organize these 1hour long speed contests to improve problem solving speed of the junior competitive programmers.<br><br> You will get the contests [here](https://vjudge.net/contest#category=all&running=0&title=solo%20speed&owner=ICPC_Bot)**
+> <img src = "assets/online%20judge.PNG" align = "center" width = "30px" height = "20px"> **Solo speed contest <br><br>Solo speed contests are arranged by Bangladesh CP Server , a discord server of competitive programmers of Bangladesh.They organize these 1hour long speed contests to improve problem solving speed of programmers.<br><br> You will get the contests [here](https://vjudge.net/contest#category=all&running=0&title=solo%20speed&owner=ICPC_Bot)**
 
 <!--
 1️⃣2️⃣3️⃣4️⃣5️⃣7️⃣8️⃣9️⃣🔟6️⃣-->
