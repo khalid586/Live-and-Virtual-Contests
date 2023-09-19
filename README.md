@@ -26,7 +26,7 @@ Besides that, you might also find some other contests that I have participated o
 
 ### <img src = "assets/my%20logo.jpeg" align = "center" width = "45px" height = "30px"> Virtual Contests
 
-|Platform|Contest Source [Github]| Problems Solved |Upsolve|Upsolve status|
+|Platform|Contest Source [Github]|Solved|Upsolve||
 |-|-|-|-|-|
 |<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height = "22px" width = "33px" />|[**Codeforces Educational Round 153**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/CF%20Edu%20round%20153)|![](https://img.shields.io/badge/1-%23E60023.svg?style=flat)|-|-|
 |<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height = "22px" width = "33px" />|[**Codeforces Round 878**](https://github.com/khalid586/Live-and-Virtual-Contests/tree/main/Virtual%20Contests/CF%20round%20878)|![](https://img.shields.io/badge/3-%23E60023.svg?style=flat)|-|-|
