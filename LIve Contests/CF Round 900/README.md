@@ -8,15 +8,15 @@
 
 ## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "40px"> [ Solutions](#solutions)
 
-##### Problem A
+#### Problem A
 - [**Problem**](https://codeforces.com/contest/1878/problem/A)
 - [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20900/CF%201878A.cpp)
 
-##### Problem B
+#### Problem B
 - [**Problem**](https://codeforces.com/contest/1878/problem/B)
 - [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20900/CF%201878B.cpp)
 
-##### Problem C
+#### Problem C
 - [**Problem**](https://codeforces.com/contest/1878/problem/C)
 - [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20900/CF%201878C.cpp)
 
@@ -25,14 +25,15 @@
 
 ### Upsolves
 
-##### Problem D
+#### Problem D
 - [**Problem**](https://codeforces.com/contest/1878/problem/D)
-- [**Solution**]()
+- [**Solution** - To be added]()
 
-##### Problem E
+#### Problem E
+- **Tag** - **Segment Tree (Must Solve)**
 - [**Problem**](https://codeforces.com/contest/1878/problem/E)
-- [**Solution**]()
+- [**Solution** - To be added]()
 
-##### Problem F
+#### Problem F
 - [**Problem**](https://codeforces.com/contest/1878/problem/F)
-- [**Solution**]()
+- [**Solution** - To be added]()
