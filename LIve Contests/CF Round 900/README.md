@@ -10,15 +10,15 @@
 
 ##### Problem A
 - [**Problem**](https://codeforces.com/contest/1878/problem/A)
-- [**Solution**]()
+- [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20900/CF%201878A.cpp)
 
 ##### Problem B
 - [**Problem**](https://codeforces.com/contest/1878/problem/B)
-- [**Solution**]()
+- [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20900/CF%201878B.cpp)
 
 ##### Problem C
 - [**Problem**](https://codeforces.com/contest/1878/problem/C)
-- [**Solution**]()
+- [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20900/CF%201878C.cpp)
 
 <br>
 
