@@ -5,10 +5,9 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/khalid586/Live-and-Virtual-Contests) 
 
-### <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "45px" height = "30px"> Backstory
-> **[Codeforces](https://codeforces.com) hosts online coding competitions more than once every week(almost).**
-
->**Below you will find some of the contests that I have participated (Live or Virtual) on codeforces.
+### <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> Backstory
+> **[Codeforces](https://codeforces.com) hosts online coding competitions more than once every week(almost).<br><br>
+Below you will find some of the contests that I have participated (Live or Virtual) on codeforces.
 Besides that, you might also find some other contests that I have participated on other platforms or organizations.**
 
 ### <img src = "assets/my%20logo.jpeg" align = "center" width = "45px" height = "30px"> Live Contests
