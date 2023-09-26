@@ -30,13 +30,20 @@ void solve(int t){
      rep(i,1,n+1) cin >> a[i];
 
      
-     int ans = 0 , sm = 0;
+     int ans = 0;
 
-     rev(i,n,1){
-          if(i % 2)      ans = max(ans,sm+a[i]);
-          if(i % 2 == 0) ans = max(ans,sm); // if there is any even position(i >= 2) available then we won't have to bear the negative value
+     rep(i,1,n+1){
 
-          if(a[i] > 0) sm += a[i];
+          if(a[i] > 0){
+               if(i == 2 and a[i-1] < 0){
+                    if(a[i] > abs(a[i-1])) ans += a[i] - abs(a[i-1]);
+               }
+               
+               else{
+                    ans += a[i];
+               }
+          }
+
      }
 
      cout << ans << '\n';
