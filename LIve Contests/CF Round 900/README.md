@@ -32,3 +32,7 @@
 ##### Problem E
 - [**Problem**](https://codeforces.com/contest/1878/problem/E)
 - [**Solution**]()
+
+##### Problem F
+- [**Problem**](https://codeforces.com/contest/1878/problem/F)
+- [**Solution**]()
