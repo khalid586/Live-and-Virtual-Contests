@@ -20,6 +20,6 @@
 |**Problem D**|**Problem E**|**Problem F**|**Problem G**|
 |:--:|:--:|:--:|:--:|
 |[**Problem**](https://codeforces.com/contest/1833/problem/D)|[**Problem**](https://codeforces.com/contest/1833/problem/E)|[**Problem**](https://codeforces.com/contest/1833/problem/F)|[**Problem**](https://codeforces.com/contest/1833/problem/G)|
-|[**Solution**]()| [**Solution**]()| [**Solution**]()| [**Solution**]()|
+|[**Solution**<br>Soon]()| [**Solution**<br>Soon]()| [**Solution**<br>Soon]()| [**Solution**<br>Soon]()|
 
 

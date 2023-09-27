@@ -20,6 +20,6 @@
 |**Problem E**|**Problem F**|**Problem G**|**Problem H**|
 |:--:|:--:|:--:|:--:|
 |[**Problem**](https://codeforces.com/contest/1878/problem/)|[**Problem**](https://codeforces.com/contest/1878/problem/E)|[**Problem**](https://codeforces.com/contest/1878/problem/F)|[**Problem**]()|
-|[**Solution**]()| [**Solution**]()| [**Solution**]()|[**Solution**]()|
+|[**Solution**<br>Soon]()| [**Solution**<br>Soon]()| [**Solution**<br>Soon]()|[**Solution**<br>Soon]()|
 
 
