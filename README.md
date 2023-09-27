@@ -51,15 +51,15 @@ Besides that, you might also find some other contests that I have participated o
 
 |_____|Contest [Github]|Solved|
 |-----|----------------|------|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 115**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%20115)|**02**|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 105**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%20105)|**02**|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 90**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2090)|**04**|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 83**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2083)|**03**|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 79**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2079)|**03**|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 78**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2078)|**03**|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 77**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2077)|**04**|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 8**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%208)|**02**|
-|<img src = "assets/online judge.png" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 4**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%204)|**04**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 115**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%20115)|**02**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 105**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%20105)|**02**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 90**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2090)|**04**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 83**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2083)|**03**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 79**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2079)|**03**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 78**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2078)|**03**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 77**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%2077)|**04**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 8**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%208)|**02**|
+|<img src = "assets/online%20judge.PNG" align = "center" width = "33px" height = "22px">| [**Solo Speed Contest 4**](https://github.com/khalid586/Solo-speed-contests/tree/main/solo%20speed%20contest%204)|**04**|
 
 
 
