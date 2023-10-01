@@ -19,4 +19,4 @@
 |**Problem E**|**Problem F**|
 |:--:|:--:|
 [**Problem**](https://codeforces.com/contest/1807/problem/E)|[**Problem**](https://codeforces.com/contest/1807/problem/F)|
-|[**Solution**<br> will be added soon]()| [**Solution**<br> will be added soon]()| [**Solution**]()|
+|[**Solution**]()<br> will be added soon| [**Solution**]()<br> will be added soon|
