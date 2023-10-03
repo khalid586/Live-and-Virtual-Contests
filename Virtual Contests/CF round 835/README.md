@@ -20,4 +20,4 @@
 |**Problem D**|**Problem E**|**Problem F**|**Problem G**|
 |:--:|:--:|:--:|----|
 |[**Problem**](https://codeforces.com/contest/1760/problem/D)|[**Problem**](https://codeforces.com/contest/1760/problem/E) |[**Problem**](https://codeforces.com/contest/1760/problem/F) |[**Problem**](https://codeforces.com/contest/1760/problem/G)|[**Problem**](https://codeforces.com/contest/1840/problem/G2)|
-|[**Solution** <br> soon]()| [**Solution**<br> soon]()| [**Solution** <br> soon]()| [**Solution**<br> soon]()| [**Solution** <br> soon]()|
+|[**Solution** <br> soon]()| [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/Virtual%20Contests/CF%20round%20835/E.cpp)| [**Solution** <br> soon]()| [**Solution**<br> soon]()| [**Solution** <br> soon]()|
