@@ -23,37 +23,24 @@ void solve(int t){
      cin >> s;
 
      int n = s.size();
-     bool done[n] = {};
+     int carry = 0 , idx = n;
 
      rev(i,n-1,0){
-          if(s[i] >= '5'){
-               if(i){
-                    int curr = s[i-1] - '0';
-                    ++curr;
-                    char ch = curr + '0';
-
-                    s[i-1] = ch;
-                    
-                    if(!done[i]){
-                         rep(j,i,n){   
-                              if(done[j]) break;                  
-                              s[j] = '0',done[j] = 1;
-                         }
-                    }
-               }  
-               else{
-                    if(!done[i]){
-                         rep(j,i,n){   
-                              if(done[j]) break;                  
-                              s[j] = '0',done[j] = 1;
-                         }
-                    }
-
-                    s = '1' + s;
-               }   
+          if(s[i] + carry >= '5'){
+               idx = i;
+               carry = 1;
           }
-        
+          else{
+               if(carry){
+                    s[i] += 1;
+                    carry = 0;
+               }
+          }
      }
+
+     rep(i,idx,n) s[i] = '0';
+     
+     if(carry) s = '1' + s;
 
      cout << s << '\n';
 }
