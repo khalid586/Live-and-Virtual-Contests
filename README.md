@@ -8,7 +8,7 @@
 ### <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> Overview
 > **[Codeforces](https://codeforces.com) hosts online coding competitions more than once every week(almost).<br><br>
 Below you will find some of the contests that I have participated (Live or Virtual) on codeforces.
-Besides that, you might also find some other contests that I have participated on other platforms or organizations.**
+Besides that, you might also find some other contests that I have participated on other platforms.**
 
 ### <img src = "assets/my%20logo.jpeg" align = "center" width = "45px" height = "30px"> Live Contests
 
