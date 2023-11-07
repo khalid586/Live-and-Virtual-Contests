@@ -11,7 +11,7 @@
 |**Problem A**|**Problem B**|
 |:--:|:--:|
 |[**Problem**](https://codeforces.com/contest/1894/problem/A)|[**Problem**](https://codeforces.com/contest/1894/problem/B)|
-|[**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20906/CF%201890A.cpp)| [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20906/CF%201890B.cpp)|
+|[**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20908/A.cpp)| [**Solution**](https://github.com/khalid586/Live-and-Virtual-Contests/blob/main/LIve%20Contests/CF%20Round%20908/B.cpp)|
 
 ### Upsolve
 
