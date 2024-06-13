@@ -1,5 +1,4 @@
- 
-Problem E
+## Problem E
 - There is a box smaller box with volume K and a larger box with dimension (x,y,z). Now you have to tell how many ways are there to fit the smaller box in the larger box.
 
 - First idea: O(n^3) solution. Run three loops and find out the ways 
@@ -13,5 +12,5 @@ Problem E
 
     - Verdict AC
     
-Problem F
+## Problem F
 - 
