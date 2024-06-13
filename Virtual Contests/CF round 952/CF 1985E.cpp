@@ -23,16 +23,16 @@ void FastIO()
 const int N = 1e6+7;
 
 void solve(int test){
-     int x,y,z,K;
-     cin >> x >> y >> z >> K;
+     int x,y,z,volume;
+     cin >> x >> y >> z >> volume;
 
      int ways = 0;
      rep(i,1,x+1){
           rep(j,1,y+1){
-               int rem = K % (i*j);
-               int div = K/(i*j);
-               if(!rem and div <= z){
-                    int ans = (x - i + 1) * (y - j + 1) * (z - div + 1) ;
+               int rem = volume % (i*j);
+               int k = volume / (i*j);
+               if(!rem and k <= z){
+                    int ans = (x - i + 1) * (y - j + 1) * (z - k + 1) ;
                     ways = max(ways,ans);
                }
           }
@@ -44,8 +44,6 @@ void solve(int test){
 int32_t main()
 {
      FastIO();
-
-     // cout << 14*14 << '\n';
 
      int T = 1;
      cin >> T;
