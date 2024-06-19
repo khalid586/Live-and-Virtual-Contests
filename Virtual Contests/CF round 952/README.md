@@ -13,4 +13,4 @@
     - Verdict AC
     
 ## Problem F
-- 
+- Binary search can be applied to find the optimal answer.
